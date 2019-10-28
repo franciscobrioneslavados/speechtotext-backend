@@ -16,11 +16,11 @@ npm run dev
 ```
 ## Servidor de Producción
 
-
+URL: [speechtotext-franciscobrioneslavados](https://cloud-speech-to-text-257015.appspot.com/)
 
 ## Front-End de Pruebas
 
-[Speech to text | Frontend](https://speechtotext-frontend.herokuapp.com/)
+URL: [Speech to text | Frontend](https://speechtotext-frontend.herokuapp.com/)
 
   Powered By [Heroku](https://speechtotext-frontend.herokuapp.com/)
   See Logs
